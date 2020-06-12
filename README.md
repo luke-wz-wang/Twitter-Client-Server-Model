@@ -6,6 +6,9 @@ A client-server model for a twitter-like application.
 The project simulates a client-server model for a simple twitter-like application. The client may send multiple requests to the server, and the server will respond the client with results after finishing processing the requests. The server has a sequential version as well as a parallel version for handling these requests. 
 
 
+![image](https://raw.githubusercontent.com/luke-wz-wang/Post_Img/master/task.png?token=AMHUBUC2NNJVMCRUGVNZRCS64MJSI)
+
+
 A thread-safe linked list data structure and a tweet feed task queue are implemented.
 
 
